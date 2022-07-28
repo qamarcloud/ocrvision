@@ -1,6 +1,7 @@
-"Instructions by Qamar Start"
+Instructions by Qamar:
 To run the example directly: Go to example folder and then do “npm install” and then "npx react-native run-android"
-"Instructions by Qamar End"
+---
+
 
 <div align="right">
 <img align="right" src="docs/demo.gif">
